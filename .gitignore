@@ -1,0 +1,18 @@
+# Maven target qovluğu
+target/
+
+# IDEA project faylları
+.idea/
+*.iml
+
+# Java compiled class files
+*.class
+
+# Log faylları
+*.log
+
+# MacOS sistem faylları
+.DS_Store
+
+# Test nəticələri
+surefire-reports/
